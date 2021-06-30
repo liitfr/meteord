@@ -1,4 +1,4 @@
-FROM liitfr/meteord:base
+FROM liitfr/meteord:node-14-base
 LABEL maintainer="Mathias Hoffmann"
 
 ARG NODE_VERSION
