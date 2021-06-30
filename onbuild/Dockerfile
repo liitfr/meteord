@@ -1,5 +1,5 @@
-FROM abernix/meteord:base
-LABEL maintainer="Jesse Rosenberger"
+FROM liitfr/meteord:base
+LABEL maintainer="Mathias Hoffmann"
 
 ARG NODE_VERSION
 ENV NODE_VERSION ${NODE_VERSION:-14.17.1}
