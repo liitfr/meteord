@@ -1,4 +1,4 @@
-FROM abernix/meteord:base
+FROM liitfr/meteord:base
 LABEL maintainer="Jesse Rosenberger"
 
 ARG NODE_VERSION
